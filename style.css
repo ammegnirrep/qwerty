@@ -1,0 +1,30 @@
+body {
+              background-color: black;
+              color: orange;
+              font-family: "Times New Roman", Times, serif;
+              font-size: 30px;
+              text-align: center;
+
+}
+
+
+img {
+      border: 25px solid red;
+
+
+}
+
+
+h1 {
+
+}
+
+.navigation {
+              background-color: green;
+              text-align: left;
+}
+
+.content{
+
+  background-color: blue;
+}
